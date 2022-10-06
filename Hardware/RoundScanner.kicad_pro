@@ -39,9 +39,9 @@
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
-        "silk_text_size_h": 1.0,
-        "silk_text_size_v": 1.0,
-        "silk_text_thickness": 0.15,
+        "silk_text_size_h": 0.5,
+        "silk_text_size_v": 0.5,
+        "silk_text_thickness": 0.09999999999999999,
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
@@ -348,7 +348,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "OurScanner.kicad_pro",
+    "filename": "RoundScanner.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -383,7 +383,6 @@
         "nets": [
           "+2V5",
           "+3V3",
-          "+5V",
           "GND"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
@@ -405,7 +404,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "PCB KiCad.step",
+      "step": "../CAD/PCB KiCad v0.1.STEP",
       "vrml": ""
     },
     "page_layout_descr_file": ""
@@ -455,7 +454,7 @@
     ],
     [
       "98df1e87-3735-4cb9-8253-663f6eb2234f",
-      "Sensor"
+      "InGaS Sensor"
     ],
     [
       "a8dcb7a4-48cf-403e-b881-d44234291c62",

@@ -62,11 +62,11 @@
       35,
       36
     ],
-    "visible_layers": "800d3ec_ffffffff",
+    "visible_layers": "800d1ec_ffffffff",
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "OurScanner.kicad_prl",
+    "filename": "RoundScanner.kicad_prl",
     "version": 3
   },
   "project": {
