@@ -1,4 +1,4 @@
-# handheld-scanner
+# A handheld plastic identification tool
 A handheld version of the PlasticScanner
 
 > **Warning**
