@@ -588,7 +588,7 @@
     (uuid 0cea20d2-5414-4824-9bf2-d75ad7756cca)
     (property "Reference" "U2" (id 0) (at 157.48 90.17 0))
     (property "Value" "NAU7802SGI" (id 1) (at 157.48 92.71 0))
-    (property "Footprint" "" (id 2) (at 139.7 87.63 0)
+    (property "Footprint" "Nuvoton-NAU7802SGI:Nuvoton-NAU7802SGI" (id 2) (at 139.7 87.63 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Datasheet" "http://www.nuvoton.com/resource-files/NAU7802%20Data%20Sheet%20V1.7.pdf" (id 3) (at 139.7 85.09 0)

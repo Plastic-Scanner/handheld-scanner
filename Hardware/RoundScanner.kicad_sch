@@ -167,8 +167,14 @@
     (path "/98df1e87-3735-4cb9-8253-663f6eb2234f/1ad11d3a-f03a-4cbc-ab6d-7b9f74d5fbdb"
       (reference "#PWR02") (unit 1) (value "GND") (footprint "")
     )
+    (path "/5869e7b3-0d61-455b-97ad-e4e8b4829f27/f0616fbe-0b76-4323-9592-4637233b5dd1"
+      (reference "#PWR03") (unit 1) (value "GND") (footprint "")
+    )
     (path "/98df1e87-3735-4cb9-8253-663f6eb2234f/9497af5a-09d4-42ed-a456-e9b4edc10f49"
       (reference "#PWR04") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/5869e7b3-0d61-455b-97ad-e4e8b4829f27/00c55c1c-0cba-4f17-bcf3-9b5b05423d3b"
+      (reference "#PWR05") (unit 1) (value "VCC") (footprint "")
     )
     (path "/5869e7b3-0d61-455b-97ad-e4e8b4829f27/e660d6db-bcf6-4c83-b051-f253dcd1df31"
       (reference "#PWR014") (unit 1) (value "GND") (footprint "")
@@ -389,11 +395,29 @@
     (path "/2f10b7a1-df61-45b4-9fd1-1ebf21b41a15/ae6de9b9-0550-4376-b49b-7259989631bc"
       (reference "D11") (unit 1) (value "LED") (footprint "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder")
     )
+    (path "/f3879066-a91b-415e-b241-18f9d05de4a2/ba5c4ba6-8d62-4e9c-bb7f-329201e58b6b"
+      (reference "H1") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_2.2mm_M2_ISO7380_Pad")
+    )
+    (path "/f3879066-a91b-415e-b241-18f9d05de4a2/2c8a66ca-4390-429b-a57b-2db841075c59"
+      (reference "H2") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_2.2mm_M2_ISO7380_Pad")
+    )
+    (path "/f3879066-a91b-415e-b241-18f9d05de4a2/6d6df775-4ba6-4706-8cd0-91175809d0ac"
+      (reference "H3") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_2.2mm_M2_ISO7380_Pad")
+    )
+    (path "/f3879066-a91b-415e-b241-18f9d05de4a2/983720b2-45fb-46e6-aa3e-98a2bd7cfb96"
+      (reference "H4") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_2.2mm_M2_ISO7380_Pad")
+    )
+    (path "/f3879066-a91b-415e-b241-18f9d05de4a2/40dc5062-01d4-4afd-b723-3edbebf43d5d"
+      (reference "H5") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_2.2mm_M2_ISO7380_Pad")
+    )
     (path "/5869e7b3-0d61-455b-97ad-e4e8b4829f27/e2f25370-b546-49d3-bdb0-cc886c2db087"
       (reference "J1") (unit 1) (value "I2C Debug") (footprint "Connector_JST:JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical")
     )
     (path "/5869e7b3-0d61-455b-97ad-e4e8b4829f27/574418b0-4eb3-4e5c-af93-568a8d0b32d5"
       (reference "J2") (unit 1) (value "I2C") (footprint "Connector_JST:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal")
+    )
+    (path "/5869e7b3-0d61-455b-97ad-e4e8b4829f27/31bf73f8-5ead-4618-bd11-6325766f2985"
+      (reference "J3") (unit 1) (value "I2C") (footprint "Connector_JST:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal")
     )
     (path "/5869e7b3-0d61-455b-97ad-e4e8b4829f27/aac71f24-ead3-4609-bee3-b74bc57e3328"
       (reference "L1") (unit 1) (value "INDUCTOR") (footprint "Inductor_SMD:L_0603_1608Metric")
