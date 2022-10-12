@@ -14,3 +14,6 @@ The board has the following changes from the original:
 - AS7341 I2C color sensor added
 - 5v changed to 3.3v to comply with Qwiic/stemmaQT guidelines
 
+
+## Notes
+- Holes are M2 holes (iso 7380)
