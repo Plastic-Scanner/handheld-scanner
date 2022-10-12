@@ -2302,7 +2302,7 @@
     (property "Value" "I2C Debug" (id 1) (at 186.69 133.35 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Connector_JST:JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical" (id 2) (at 196.85 139.7 0)
+    (property "Footprint" "" (id 2) (at 196.85 139.7 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 196.85 139.7 0)
