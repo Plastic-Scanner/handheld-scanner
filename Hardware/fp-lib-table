@@ -8,4 +8,5 @@
   (lib (name "AP7312-1833W6-7")(type "KiCad")(uri "${KIPRJMOD}/footprints/AP7312-1833W6-7.pretty")(options "")(descr ""))
   (lib (name "Everlight-EAHC2835WD6")(type "KiCad")(uri "${KIPRJMOD}/footprints/Everlight-EAHC2835WD6.pretty")(options "")(descr ""))
   (lib (name "Nuvoton-NAU7802SGI")(type "KiCad")(uri "${KIPRJMOD}/footprints/Nuvoton-NAU7802SGI.pretty")(options "")(descr ""))
+  (lib (name "PlasticScannerLibrary")(type "KiCad")(uri "${KIPRJMOD}/ComponentLibrary/PlasticScannerLibrary.pretty")(options "")(descr ""))
 )
