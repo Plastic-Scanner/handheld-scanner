@@ -946,7 +946,6 @@
   )
 
   (bus_alias "I2C" (members "SDA" "SCL"))
-
   (junction (at 113.03 110.49) (diameter 0) (color 0 0 0 0)
     (uuid 0abd064d-8c25-4927-ba27-60401677c6e5)
   )
@@ -961,8 +960,8 @@
   )
 
   (no_connect (at 251.46 114.3) (uuid 36f97228-be2f-492c-bc16-cb33c47f9bb6))
-  (no_connect (at 220.98 124.46) (uuid 36f97228-be2f-492c-bc16-cb33c47f9bb6))
-  (no_connect (at 251.46 127) (uuid 36f97228-be2f-492c-bc16-cb33c47f9bb6))
+  (no_connect (at 220.98 124.46) (uuid 36f97228-be2f-492c-bc16-cb33c47f9bb7))
+  (no_connect (at 251.46 127) (uuid 36f97228-be2f-492c-bc16-cb33c47f9bb8))
 
   (wire (pts (xy 220.98 120.65) (xy 220.98 121.92))
     (stroke (width 0) (type default) (color 0 0 0 0))

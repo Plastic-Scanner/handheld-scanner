@@ -385,9 +385,9 @@
   )
 
   (no_connect (at 172.72 102.87) (uuid 280e53d4-ab4d-423e-b7c2-a9675df373f3))
-  (no_connect (at 142.24 97.79) (uuid 280e53d4-ab4d-423e-b7c2-a9675df373f3))
-  (no_connect (at 172.72 118.11) (uuid 280e53d4-ab4d-423e-b7c2-a9675df373f3))
-  (no_connect (at 172.72 115.57) (uuid 280e53d4-ab4d-423e-b7c2-a9675df373f3))
+  (no_connect (at 142.24 97.79) (uuid 280e53d4-ab4d-423e-b7c2-a9675df373f4))
+  (no_connect (at 172.72 118.11) (uuid 280e53d4-ab4d-423e-b7c2-a9675df373f5))
+  (no_connect (at 172.72 115.57) (uuid 280e53d4-ab4d-423e-b7c2-a9675df373f6))
 
   (wire (pts (xy 100.33 72.39) (xy 107.95 72.39))
     (stroke (width 0) (type default) (color 0 0 0 0))
@@ -528,6 +528,15 @@
   (wire (pts (xy 115.57 82.55) (xy 115.57 88.9))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid fc36900a-1f57-4358-b702-7db797b259b3)
+  )
+
+  (text "This was 0.1uF in \nAdafruit design" (at 125.73 113.03 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 3ab2ec94-0b71-4e49-bb9c-d5dabcbe1901)
+  )
+  (text "This is 51ohms in \nAdafruits implementation" (at 100.33 130.81 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid d8d72014-a5d3-48df-95a7-29bc1ec9135c)
   )
 
   (global_label "SCL" (shape bidirectional) (at 181.61 107.95 0) (fields_autoplaced)

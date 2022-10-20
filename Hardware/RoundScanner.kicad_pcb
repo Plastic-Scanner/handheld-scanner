@@ -5383,7 +5383,7 @@
   (gr_line (start 96.8375 115.57) (end 81.7245 115.57) (layer "B.SilkS") (width 0.15) (tstamp e0b293eb-967d-413e-942b-ebdfadf788ea))
   (gr_circle (center 89.281 107.569) (end 105.638383 107.569) (layer "Cmts.User") (width 0.15) (fill none) (tstamp f1ac4492-0bb2-42a8-b3f7-74ea89781b35))
   (gr_circle locked (center 89.535 107.061) (end 114.046 108.585) (layer "Edge.Cuts") (width 0.1) (fill none) (tstamp dd25caf2-c470-499e-9b28-d47564283b2f))
-  (gr_text "HandheldScanner v0.3\n2022-10-19" (at 89.281 117.729) (layer "B.SilkS") (tstamp 10d60057-c26c-4492-adae-14395ae3aeb5)
+  (gr_text "HandheldScanner v0.4\n2022-10-19" (at 89.281 117.729) (layer "B.SilkS") (tstamp 10d60057-c26c-4492-adae-14395ae3aeb5)
     (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
   )
   (gr_text "3v3" (at 93.345 85.471 -45) (layer "F.SilkS") (tstamp 36bb7cc5-40f2-497a-925f-69375e509408)
