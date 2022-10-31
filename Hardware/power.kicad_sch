@@ -1415,7 +1415,7 @@
     (property "Value" "I2C Debug" (id 1) (at 186.69 133.35 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Connector_PinSocket_1.27mm:PinSocket_1x04_P1.27mm_Vertical" (id 2) (at 196.85 139.7 0)
+    (property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical" (id 2) (at 196.85 139.7 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 196.85 139.7 0)

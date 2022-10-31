@@ -474,7 +474,7 @@
       (reference "H5") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_2.2mm_M2_ISO7380_Pad")
     )
     (path "/5869e7b3-0d61-455b-97ad-e4e8b4829f27/e2f25370-b546-49d3-bdb0-cc886c2db087"
-      (reference "J1") (unit 1) (value "I2C Debug") (footprint "Connector_PinSocket_1.27mm:PinSocket_1x04_P1.27mm_Vertical")
+      (reference "J1") (unit 1) (value "I2C Debug") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical")
     )
     (path "/5869e7b3-0d61-455b-97ad-e4e8b4829f27/574418b0-4eb3-4e5c-af93-568a8d0b32d5"
       (reference "J2") (unit 1) (value "I2C") (footprint "Connector_JST:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal")
