@@ -9,4 +9,6 @@
   (lib (name "Everlight-EAHC2835WD6")(type "KiCad")(uri "${KIPRJMOD}/footprints/Everlight-EAHC2835WD6.pretty")(options "")(descr ""))
   (lib (name "Nuvoton-NAU7802SGI")(type "KiCad")(uri "${KIPRJMOD}/footprints/Nuvoton-NAU7802SGI.pretty")(options "")(descr ""))
   (lib (name "PlasticScannerLibrary")(type "KiCad")(uri "${KIPRJMOD}/ComponentLibrary/PlasticScannerLibrary.pretty")(options "")(descr ""))
+  (lib (name "TLC59208FIPWR")(type "KiCad")(uri "${KIPRJMOD}/footprints/TLC59208FIPWR.pretty")(options "")(descr ""))
+  (lib (name "BSS138DW-7-F-A")(type "KiCad")(uri "${KIPRJMOD}/footprints/BSS138DW-7-F-A.pretty")(options "")(descr ""))
 )
