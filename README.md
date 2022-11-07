@@ -6,7 +6,7 @@ A handheld version of the PlasticScanner as a part of a masterthesis at DTU
 
 ## Idea
 
-To make a small breakoutboard with ADC, Amplifier, LED contorl and a color sensor, that is easy to interface via a Qwiic/StemmaQT I2C connector. 
+To make a small breakoutboard with ADC, Amplifier, LED controller and a color sensor, that is easy to interface via a Qwiic/StemmaQT I2C connector. 
 
 ## Changes from the original plastic scanner
 The board has the following changes from the original:
