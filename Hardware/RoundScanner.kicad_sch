@@ -23,10 +23,6 @@
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 3b62b2ca-eb72-4574-8ccb-2c68daa108a6)
   )
-  (wire (pts (xy 129.54 99.06) (xy 139.7 99.06))
-    (stroke (width 0) (type default) (color 0 0 0 0))
-    (uuid 5c1f7006-ea07-4030-a81b-49949acac72b)
-  )
   (wire (pts (xy 92.71 95.25) (xy 105.41 95.25))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 942390d8-ba3b-4a01-bf6b-ecdb55093675)
@@ -34,18 +30,6 @@
   (wire (pts (xy 92.71 92.71) (xy 105.41 92.71))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid a06ad8d0-7cfe-45a4-a9cc-e5f5956afbe0)
-  )
-  (wire (pts (xy 168.275 99.695) (xy 175.895 99.695))
-    (stroke (width 0) (type default) (color 0 0 0 0))
-    (uuid b60dc536-ad78-489f-ab01-ac64bc2f5c83)
-  )
-  (wire (pts (xy 129.54 102.87) (xy 139.7 102.87))
-    (stroke (width 0) (type default) (color 0 0 0 0))
-    (uuid d16b0a01-398d-4cb7-9828-39d87e5ecdc7)
-  )
-  (wire (pts (xy 129.54 100.965) (xy 139.7 100.965))
-    (stroke (width 0) (type default) (color 0 0 0 0))
-    (uuid dbbea03f-f84d-459f-96ba-d7deaf37d07c)
   )
 
   (sheet (at 175.895 77.47) (size 24.13 30.48) (fields_autoplaced)
@@ -57,10 +41,6 @@
     )
     (property "Sheet file" "led.kicad_sch" (id 1) (at 175.895 108.5346 0)
       (effects (font (size 1.27 1.27)) (justify left top))
-    )
-    (pin "LED RESET" input (at 175.895 99.695 180)
-      (effects (font (size 1.27 1.27)) (justify left))
-      (uuid f0170ce5-6822-4542-9108-362e625b8784)
     )
   )
 
@@ -122,18 +102,6 @@
       (effects (font (size 1.27 1.27)) (justify left))
       (uuid d1eda5a5-0744-46cd-893f-5dd08993ad23)
     )
-    (pin "ADC RESET" input (at 129.54 99.06 0)
-      (effects (font (size 1.27 1.27)) (justify right))
-      (uuid 4d79f395-044a-420b-8624-875d42b2413b)
-    )
-    (pin "ADC PDWN" input (at 129.54 100.965 0)
-      (effects (font (size 1.27 1.27)) (justify right))
-      (uuid de6c9e28-1caa-4ec0-8209-4aec911cdd33)
-    )
-    (pin "ADC DRDY" output (at 129.54 102.87 0)
-      (effects (font (size 1.27 1.27)) (justify right))
-      (uuid 81860a73-1cc1-4d43-824a-436e736912d1)
-    )
     (pin "AIN2+" input (at 105.41 92.71 180)
       (effects (font (size 1.27 1.27)) (justify left))
       (uuid 68819e2d-c67d-4f68-baac-d8b892f1262c)
@@ -153,22 +121,6 @@
     )
     (property "Sheet file" "mcu.kicad_sch" (id 1) (at 139.7 108.5346 0)
       (effects (font (size 1.27 1.27)) (justify left top))
-    )
-    (pin "ADC RESET" output (at 139.7 99.06 180)
-      (effects (font (size 1.27 1.27)) (justify left))
-      (uuid defb1528-0644-4016-9e57-2bb54857d0ae)
-    )
-    (pin "ADC PDWN" output (at 139.7 100.965 180)
-      (effects (font (size 1.27 1.27)) (justify left))
-      (uuid 477e2e59-586b-4257-8cc9-4ab41f5afe33)
-    )
-    (pin "ADC DRDY" input (at 139.7 102.87 180)
-      (effects (font (size 1.27 1.27)) (justify left))
-      (uuid 34448c9f-5d0d-4bc4-9b86-67e6ab36b8a1)
-    )
-    (pin "LED RESET" output (at 168.275 99.695 0)
-      (effects (font (size 1.27 1.27)) (justify right))
-      (uuid 158b2755-c398-4e9f-a5ea-2f7f4404d7aa)
     )
   )
 
@@ -212,8 +164,8 @@
     (path "/98df1e87-3735-4cb9-8253-663f6eb2234f/714022a1-0082-4f98-9559-b194f29af8df"
       (reference "#PWR09") (unit 1) (value "GND") (footprint "")
     )
-    (path "/a8dcb7a4-48cf-403e-b881-d44234291c62/e83cfc6a-d9d2-4f41-9ed8-e16d04258196"
-      (reference "#PWR011") (unit 1) (value "GND") (footprint "")
+    (path "/5869e7b3-0d61-455b-97ad-e4e8b4829f27/6959919e-9236-44f6-bed8-c9993a6b48fa"
+      (reference "#PWR010") (unit 1) (value "GND") (footprint "")
     )
     (path "/a8dcb7a4-48cf-403e-b881-d44234291c62/51199e6d-598f-4680-8a1f-53cd14dedc18"
       (reference "#PWR012") (unit 1) (value "GND") (footprint "")
@@ -341,14 +293,8 @@
     (path "/5869e7b3-0d61-455b-97ad-e4e8b4829f27/1d86ffd5-cd1f-4aa6-a316-243d79ae65e2"
       (reference "#PWR0132") (unit 1) (value "+3.3V") (footprint "")
     )
-    (path "/f3879066-a91b-415e-b241-18f9d05de4a2/b3d1803d-92bf-461d-bd0e-c894861ae3f7"
-      (reference "#PWR0133") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/f3879066-a91b-415e-b241-18f9d05de4a2/04e8606e-e4f6-483c-9b64-a3c3b7a29ac4"
-      (reference "#PWR0134") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/f3879066-a91b-415e-b241-18f9d05de4a2/66dbd06c-9ed1-44c9-b47a-57be7c411ac5"
-      (reference "#PWR0135") (unit 1) (value "GND") (footprint "")
+    (path "/a8dcb7a4-48cf-403e-b881-d44234291c62/7d5c9664-ce12-44c2-beef-3c42f0baca1f"
+      (reference "#PWR0133") (unit 1) (value "+3.3V") (footprint "")
     )
     (path "/98df1e87-3735-4cb9-8253-663f6eb2234f/fb03b7bb-2297-4d63-a835-8827b2d106f1"
       (reference "C1") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
@@ -386,6 +332,9 @@
     (path "/98df1e87-3735-4cb9-8253-663f6eb2234f/5baaad51-90c9-47e6-8528-1e99fbd4fc0a"
       (reference "C12") (unit 1) (value "51p") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
     )
+    (path "/a8dcb7a4-48cf-403e-b881-d44234291c62/badd1190-e6fc-4a06-8200-456cf48d10fd"
+      (reference "C13") (unit 1) (value "0.1uF") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
     (path "/5869e7b3-0d61-455b-97ad-e4e8b4829f27/c7c2250f-e41d-4b57-9778-aa463f2c204a"
       (reference "C14") (unit 1) (value "10uF") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
     )
@@ -415,12 +364,6 @@
     )
     (path "/98df1e87-3735-4cb9-8253-663f6eb2234f/470119ef-82ec-44cb-a982-3cb87de40cc8"
       (reference "C23") (unit 1) (value "100p") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
-    )
-    (path "/a8dcb7a4-48cf-403e-b881-d44234291c62/9039923c-dfbf-48e4-8eb9-bec6daedebcf"
-      (reference "C24") (unit 1) (value "18pF") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
-    )
-    (path "/a8dcb7a4-48cf-403e-b881-d44234291c62/22f293f6-8da2-41be-af38-4437d9ca0a6d"
-      (reference "C25") (unit 1) (value "18pF") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
     )
     (path "/98df1e87-3735-4cb9-8253-663f6eb2234f/f05bbc97-e274-49a9-ab3b-42c85a8131c1"
       (reference "D1") (unit 1) (value "0090-3111-185") (footprint "Diode_SMD:D_1206_3216Metric_Pad1.42x1.75mm_HandSolder")
@@ -464,23 +407,17 @@
     (path "/f3879066-a91b-415e-b241-18f9d05de4a2/2c8a66ca-4390-429b-a57b-2db841075c59"
       (reference "H2") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_2.2mm_M2_ISO7380_Pad")
     )
-    (path "/f3879066-a91b-415e-b241-18f9d05de4a2/6d6df775-4ba6-4706-8cd0-91175809d0ac"
-      (reference "H3") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_2.2mm_M2_ISO7380_Pad")
-    )
-    (path "/f3879066-a91b-415e-b241-18f9d05de4a2/983720b2-45fb-46e6-aa3e-98a2bd7cfb96"
-      (reference "H4") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_2.2mm_M2_ISO7380_Pad")
-    )
-    (path "/f3879066-a91b-415e-b241-18f9d05de4a2/40dc5062-01d4-4afd-b723-3edbebf43d5d"
-      (reference "H5") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_2.2mm_M2_ISO7380_Pad")
-    )
     (path "/5869e7b3-0d61-455b-97ad-e4e8b4829f27/e2f25370-b546-49d3-bdb0-cc886c2db087"
-      (reference "J1") (unit 1) (value "I2C Debug") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical")
+      (reference "J1") (unit 1) (value "I2C ThroughHole") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical")
     )
     (path "/5869e7b3-0d61-455b-97ad-e4e8b4829f27/574418b0-4eb3-4e5c-af93-568a8d0b32d5"
       (reference "J2") (unit 1) (value "I2C") (footprint "Connector_JST:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal")
     )
     (path "/5869e7b3-0d61-455b-97ad-e4e8b4829f27/31bf73f8-5ead-4618-bd11-6325766f2985"
       (reference "J3") (unit 1) (value "I2C") (footprint "Connector_JST:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal")
+    )
+    (path "/5869e7b3-0d61-455b-97ad-e4e8b4829f27/db0fcbe6-e44d-4ea8-b34b-36e63044e781"
+      (reference "J4") (unit 1) (value "Interface") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical")
     )
     (path "/f3879066-a91b-415e-b241-18f9d05de4a2/7a211f01-92b2-485c-8073-e4a3611319d2"
       (reference "Q1") (unit 1) (value "BSS138DW-7-F") (footprint "BSS138DW-7-F-A:Diodes_Inc._-_BSS138DW-7-F-A")
@@ -539,8 +476,8 @@
     (path "/a8dcb7a4-48cf-403e-b881-d44234291c62/63328a39-50d9-4646-b0c8-2543a598282b"
       (reference "R17") (unit 1) (value "51") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
     )
-    (path "/a8dcb7a4-48cf-403e-b881-d44234291c62/4264af8b-a641-4e49-a1bf-294d02cb33e3"
-      (reference "R18") (unit 1) (value "270") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
+    (path "/a8dcb7a4-48cf-403e-b881-d44234291c62/217bbbd3-3884-4c41-90f4-23f0b32095e9"
+      (reference "R18") (unit 1) (value "1k") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
     )
     (path "/2f10b7a1-df61-45b4-9fd1-1ebf21b41a15/58bb65ca-65ad-4c40-9289-5cb34b09cd28"
       (reference "R24") (unit 1) (value "1k") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
@@ -568,6 +505,9 @@
     )
     (path "/2f10b7a1-df61-45b4-9fd1-1ebf21b41a15/2635c8f0-f7ca-4651-b9ad-0eca056ec380"
       (reference "R32") (unit 1) (value "82") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
+    )
+    (path "/5869e7b3-0d61-455b-97ad-e4e8b4829f27/80cc6b83-8eeb-4445-ba4e-d9f6e264c67c"
+      (reference "TP1") (unit 1) (value "Test_1.8V") (footprint "TestPoint:TestPoint_Pad_D1.5mm")
     )
     (path "/2f10b7a1-df61-45b4-9fd1-1ebf21b41a15/4175082b-901c-45b8-bcd1-8484bd6045a5"
       (reference "TP3") (unit 1) (value "Test_3.3V") (footprint "TestPoint:TestPoint_Pad_D1.5mm")
@@ -605,8 +545,8 @@
     (path "/5869e7b3-0d61-455b-97ad-e4e8b4829f27/fc34c0fa-5531-47c6-88c9-27be906fcc59"
       (reference "U7") (unit 1) (value "AP7312-1833W6-7") (footprint "AP7312-1833W6-7:AP7312-1833W6-7")
     )
-    (path "/a8dcb7a4-48cf-403e-b881-d44234291c62/5a32c462-b5e8-4fff-8aec-2352f766b90d"
-      (reference "Y1") (unit 1) (value "Crystal_GND23") (footprint "Crystal:Crystal_SMD_HC49-SD")
+    (path "/a8dcb7a4-48cf-403e-b881-d44234291c62/66eb875f-e355-46dd-848b-6715376f0fa1"
+      (reference "X1") (unit 1) (value "SG-8002CE") (footprint "Oscillator:Oscillator_SMD_SeikoEpson_SG8002CE-4Pin_3.2x2.5mm")
     )
   )
 )
