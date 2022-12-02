@@ -6,4 +6,5 @@
   (lib (name "AP7312-1833W6-7")(type "KiCad")(uri "${KIPRJMOD}/symbols/AP7312-1833W6-7.kicad_sym")(options "")(descr ""))
   (lib (name "Diodes_Inc._-_BSS138DW-7-F")(type "KiCad")(uri "${KIPRJMOD}/symbols/Diodes_Inc._-_BSS138DW-7-F.kicad_sym")(options "")(descr ""))
   (lib (name "Everlight-EAHC2835WD6")(type "KiCad")(uri "${KIPRJMOD}/symbols/Everlight-EAHC2835WD6.kicad_sym")(options "")(descr ""))
+  (lib (name "TLC59208")(type "KiCad")(uri "${KIPRJMOD}/symbols/TLC59208.kicad_sym")(options "")(descr ""))
 )
