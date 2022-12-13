@@ -1130,8 +1130,13 @@
     (path "/f3879066-a91b-415e-b241-18f9d05de4a2/4d8e41fd-fc08-4a29-adc3-f0ef7cc5da50"
       (reference "#PWR0115") (unit 1) (value "+3.3V") (footprint "")
     )
+<<<<<<< HEAD
     (path "/5869e7b3-0d61-455b-97ad-e4e8b4829f27/1d86ffd5-cd1f-4aa6-a316-243d79ae65e2"
       (reference "#PWR0116") (unit 1) (value "+3.3V") (footprint "")
+=======
+    (path "/f3879066-a91b-415e-b241-18f9d05de4a2/bb8d7482-82da-459d-bb81-5271ec28d6b7"
+      (reference "#PWR0116") (unit 1) (value "+1V8") (footprint "")
+>>>>>>> ae9b0d9 (Added controller board & fixed I2C Qwiic connector)
     )
     (path "/5869e7b3-0d61-455b-97ad-e4e8b4829f27/c051981a-0899-4901-9235-34bf10b135df"
       (reference "#PWR0117") (unit 1) (value "VCC") (footprint "")
@@ -1184,6 +1189,12 @@
     (path "/a8dcb7a4-48cf-403e-b881-d44234291c62/7d5c9664-ce12-44c2-beef-3c42f0baca1f"
       (reference "#PWR0133") (unit 1) (value "+3.3V") (footprint "")
     )
+<<<<<<< HEAD
+=======
+    (path "/5869e7b3-0d61-455b-97ad-e4e8b4829f27/1d86ffd5-cd1f-4aa6-a316-243d79ae65e2"
+      (reference "#PWR0134") (unit 1) (value "+3.3V") (footprint "")
+    )
+>>>>>>> ae9b0d9 (Added controller board & fixed I2C Qwiic connector)
     (path "/e6b53734-fadc-469f-a149-b12c718f7663"
       (reference "#SYM1") (unit 1) (value "SYM_ESD_Small") (footprint "")
     )
@@ -1301,8 +1312,13 @@
     (path "/5869e7b3-0d61-455b-97ad-e4e8b4829f27/e2f25370-b546-49d3-bdb0-cc886c2db087"
       (reference "J1") (unit 1) (value "I2C ThroughHole") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical")
     )
+<<<<<<< HEAD
     (path "/5869e7b3-0d61-455b-97ad-e4e8b4829f27/bc4d1115-2d51-4627-82b5-b482ce95cd54"
       (reference "J2") (unit 1) (value "I2C ThroughHole") (footprint "Connector_JST:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal")
+=======
+    (path "/5869e7b3-0d61-455b-97ad-e4e8b4829f27/31bf73f8-5ead-4618-bd11-6325766f2985"
+      (reference "J3") (unit 1) (value "I2C") (footprint "Connector_JST:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal")
+>>>>>>> ae9b0d9 (Added controller board & fixed I2C Qwiic connector)
     )
     (path "/5869e7b3-0d61-455b-97ad-e4e8b4829f27/db0fcbe6-e44d-4ea8-b34b-36e63044e781"
       (reference "J4") (unit 1) (value "Interface") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical")
@@ -1373,6 +1389,12 @@
     (path "/a8dcb7a4-48cf-403e-b881-d44234291c62/217bbbd3-3884-4c41-90f4-23f0b32095e9"
       (reference "R18") (unit 1) (value "1k") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
     )
+<<<<<<< HEAD
+=======
+    (path "/f3879066-a91b-415e-b241-18f9d05de4a2/8a6f3234-1d29-4685-a956-7e6a17e6c5ed"
+      (reference "R19") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
+    )
+>>>>>>> ae9b0d9 (Added controller board & fixed I2C Qwiic connector)
     (path "/2f10b7a1-df61-45b4-9fd1-1ebf21b41a15/58bb65ca-65ad-4c40-9289-5cb34b09cd28"
       (reference "R24") (unit 1) (value "1k") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
     )
