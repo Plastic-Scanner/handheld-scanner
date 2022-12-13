@@ -472,17 +472,5 @@
       "LED"
     ]
   ],
-<<<<<<< HEAD
-  "text_variables": {
-    "Version": "0.7"
-  }
-=======
-<<<<<<< HEAD
   "text_variables": {}
-=======
-  "text_variables": {
-    "Version": "0.7"
-  }
->>>>>>> b554c20 (Added MCU PCB)
->>>>>>> 7b3cf45 (Added MCU PCB)
 }

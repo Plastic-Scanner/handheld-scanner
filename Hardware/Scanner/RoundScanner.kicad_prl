@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 31,
+    "active_layer": 0,
     "active_layer_preset": "",
     "auto_track_width": false,
     "hidden_nets": [],
@@ -62,18 +62,7 @@
       35,
       36
     ],
-<<<<<<< HEAD
-<<<<<<< HEAD
-    "visible_layers": "00000ff_80000007",
-=======
-    "visible_layers": "7fcfcf4_80000007",
->>>>>>> ae9b0d9 (Added controller board & fixed I2C Qwiic connector)
-=======
-    "visible_layers": "7fcfcf4_80000007",
-=======
-    "visible_layers": "00000ff_80000007",
->>>>>>> b554c20 (Added MCU PCB)
->>>>>>> 7b3cf45 (Added MCU PCB)
+    "visible_layers": "7fcbc38_80000007",
     "zone_display_mode": 0
   },
   "meta": {
