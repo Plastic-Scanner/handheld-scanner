@@ -936,7 +936,7 @@
     (property "Value" "Conn_01x08_MountingPin" (id 1) (at 106.68 135.5343 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Connector_JST:JST_PH_B8B-PH-SM4-TB_1x08-1MP_P2.00mm_Vertical" (id 2) (at 109.22 135.89 0)
+    (property "Footprint" "" (id 2) (at 109.22 135.89 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 109.22 135.89 0)
@@ -1076,8 +1076,8 @@
     (pin "2" (uuid 24c704a1-3d54-4688-8a8e-e29e75acf676))
     (pin "3" (uuid 918959b8-9288-4c0c-ae06-910b676ebb49))
     (pin "4" (uuid 501d4bce-cdc1-4f22-a879-fa6401679036))
-    (pin "MT1" (uuid a096c3a9-c9f2-4a2a-a8ca-a16c918bb442))
-    (pin "MT2" (uuid c3fceee8-62ce-412f-a6b1-617a0b7a8feb))
+    (pin "MT1" (uuid a096c3a9-c9f2-4a2a-a8ca-a16c918bb443))
+    (pin "MT2" (uuid c3fceee8-62ce-412f-a6b1-617a0b7a8fec))
   )
 
   (symbol (lib_id "ControllerBoard-eagle-import:CON_JST_PH_2PIN_MTPH2") (at 139.7 104.14 90) (unit 1)
@@ -1348,7 +1348,7 @@
       (reference "CONN2") (unit 1) (value "STEMMA_I2C_QT") (footprint "Connector_JST:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal")
     )
     (path "/2711a637-8d6b-4e30-839d-2e93d8ab8847"
-      (reference "J1") (unit 1) (value "Conn_01x08_MountingPin") (footprint "Connector_JST:JST_PH_B8B-PH-SM4-TB_1x08-1MP_P2.00mm_Vertical")
+      (reference "J1") (unit 1) (value "Conn_01x08_MountingPin") (footprint "Connector_JST:JST_PH_S8B-PH-SM4-TB_1x08-1MP_P2.00mm_Horizontal")
     )
     (path "/f5ff8d69-a043-4ac8-97b3-6a072044c540"
       (reference "J2") (unit 1) (value "USB4715-GF-A_REVA") (footprint "USB4715-GF-A_REVA:GCT_USB4715-GF-A_REVA")
