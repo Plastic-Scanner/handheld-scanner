@@ -1269,28 +1269,28 @@
       (reference "D3") (unit 1) (value "EAHC2835WD6") (footprint "Everlight-EAHC2835WD6:Everlight-EAHC2835WD6-MFG")
     )
     (path "/2f10b7a1-df61-45b4-9fd1-1ebf21b41a15/7f56debb-30f6-410f-9c19-79cb666f45ae"
-      (reference "D4") (unit 1) (value "LED") (footprint "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder")
+      (reference "D4") (unit 1) (value "855nm ") (footprint "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder")
     )
     (path "/2f10b7a1-df61-45b4-9fd1-1ebf21b41a15/e28cbf22-5710-443b-97ab-e217a61f55d9"
-      (reference "D5") (unit 1) (value "LED") (footprint "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder")
+      (reference "D5") (unit 1) (value "940nm") (footprint "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder")
     )
     (path "/2f10b7a1-df61-45b4-9fd1-1ebf21b41a15/cc16645b-47f5-4a9d-a523-9327722646b2"
-      (reference "D6") (unit 1) (value "LED") (footprint "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder")
+      (reference "D6") (unit 1) (value "1050nm") (footprint "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder")
     )
     (path "/2f10b7a1-df61-45b4-9fd1-1ebf21b41a15/94ee6830-0178-48f9-b727-f8c82c1f4a97"
-      (reference "D7") (unit 1) (value "LED") (footprint "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder")
+      (reference "D7") (unit 1) (value "1300nm") (footprint "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder")
     )
     (path "/2f10b7a1-df61-45b4-9fd1-1ebf21b41a15/1ea65141-3dcf-4489-9028-27f756bf783f"
-      (reference "D8") (unit 1) (value "LED") (footprint "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder")
+      (reference "D8") (unit 1) (value "1460nm") (footprint "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder")
     )
     (path "/2f10b7a1-df61-45b4-9fd1-1ebf21b41a15/788e9790-6712-4408-9cd8-bda39baf511b"
-      (reference "D9") (unit 1) (value "LED") (footprint "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder")
+      (reference "D9") (unit 1) (value "1550nm") (footprint "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder")
     )
     (path "/2f10b7a1-df61-45b4-9fd1-1ebf21b41a15/fe39a524-14c7-41ec-a7f2-76908160e9b0"
-      (reference "D10") (unit 1) (value "LED") (footprint "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder")
+      (reference "D10") (unit 1) (value "1650nm") (footprint "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder")
     )
     (path "/2f10b7a1-df61-45b4-9fd1-1ebf21b41a15/ae6de9b9-0550-4376-b49b-7259989631bc"
-      (reference "D11") (unit 1) (value "LED") (footprint "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder")
+      (reference "D11") (unit 1) (value "1720nm") (footprint "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder")
     )
     (path "/98df1e87-3735-4cb9-8253-663f6eb2234f/621413be-0510-4592-948f-1e83d19d432e"
       (reference "D12") (unit 1) (value "0090-3111-185") (footprint "Diode_SMD:D_1206_3216Metric_Pad1.42x1.75mm_HandSolder")
@@ -1446,7 +1446,7 @@
       (reference "U7") (unit 1) (value "AP7312-1833W6-7") (footprint "AP7312-1833W6-7:AP7312-1833W6-7")
     )
     (path "/a8dcb7a4-48cf-403e-b881-d44234291c62/66eb875f-e355-46dd-848b-6715376f0fa1"
-      (reference "X1") (unit 1) (value "SG-8002CE") (footprint "Oscillator:Oscillator_SMD_SeikoEpson_SG8002CE-4Pin_3.2x2.5mm")
+      (reference "X1") (unit 1) (value "4.9152 MHz") (footprint "Oscillator:Oscillator_SMD_ECS_2520MV-xxx-xx-4Pin_2.5x2.0mm")
     )
   )
 )
