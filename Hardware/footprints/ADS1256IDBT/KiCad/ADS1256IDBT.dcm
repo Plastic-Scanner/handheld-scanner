@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP ADS1256IDBT
-D 24-bit, 30kSPS, 8-Ch Delta-Sigma ADC with PGA for Factory Automation and Process Control
-K
-F http://componentsearchengine.com/Datasheets/3/ADS1256IDBT.pdf
-$ENDCMP
-#
-#End Doc Library

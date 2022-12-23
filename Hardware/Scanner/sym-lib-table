@@ -1,0 +1,10 @@
+(sym_lib_table
+  (lib (name "Texas_Instruments_-_TPS61023DRLR")(type "KiCad")(uri "${KIPRJMOD}/footprints/TPS61023DRLR/Texas_Instruments_-_TPS61023DRLR.kicad_sym")(options "")(descr ""))
+  (lib (name "Nuvoton_-_NAU7802SGI")(type "KiCad")(uri "${KIPRJMOD}/symbols/Nuvoton_-_NAU7802SGI.kicad_sym")(options "")(descr ""))
+  (lib (name "OPA2376AID")(type "KiCad")(uri "${KIPRJMOD}/symbols/OPA2376AID.kicad_sym")(options "")(descr ""))
+  (lib (name "AS7341-DLGT")(type "KiCad")(uri "${KIPRJMOD}/symbols/AS7341-DLGT.kicad_sym")(options "")(descr ""))
+  (lib (name "AP7312-1833W6-7")(type "KiCad")(uri "${KIPRJMOD}/symbols/AP7312-1833W6-7.kicad_sym")(options "")(descr ""))
+  (lib (name "Diodes_Inc._-_BSS138DW-7-F")(type "KiCad")(uri "${KIPRJMOD}/symbols/Diodes_Inc._-_BSS138DW-7-F.kicad_sym")(options "")(descr ""))
+  (lib (name "Everlight-EAHC2835WD6")(type "KiCad")(uri "${KIPRJMOD}/symbols/Everlight-EAHC2835WD6.kicad_sym")(options "")(descr ""))
+  (lib (name "TLC59208")(type "KiCad")(uri "${KIPRJMOD}/symbols/TLC59208.kicad_sym")(options "")(descr ""))
+)
