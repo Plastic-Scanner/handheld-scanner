@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TLC59208FIPWR
+D 8-Bit Fast-Mode Plus (FM+) I2C-Bus LED Driver
+K
+F http://www.ti.com/lit/gpn/tlc59208f
+$ENDCMP
+#
+#End Doc Library
