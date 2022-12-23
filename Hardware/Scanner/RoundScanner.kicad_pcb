@@ -6,11 +6,12 @@
 
   (paper "A4")
   (title_block
-    (title "Plastic Scanner for AED")
-    (date "2022-06-07")
-    (rev "2")
+    (title "Scanner Module")
+    (date "2022-12-23")
+    (rev "1.0")
     (company "PlasticScanner")
     (comment 1 "By Markus Glavind")
+    (comment 4 "AISLER Project ID: UECHMLGI")
   )
 
   (layers
@@ -6291,7 +6292,7 @@
   (gr_circle (center 89.281 107.569) (end 105.638383 107.569) (layer "Cmts.User") (width 0.15) (fill none) (tstamp f1ac4492-0bb2-42a8-b3f7-74ea89781b35))
   (gr_line (start 78.973236 87.335) (end 99.588764 87.335) (layer "Edge.Cuts") (width 0.25) (tstamp ddb850dd-54a7-4b63-bc5c-bb6ecd4a3633))
   (gr_arc (start 99.588764 87.335) (mid 89.281 129.835) (end 78.973236 87.335) (layer "Edge.Cuts") (width 0.25) (tstamp fe4cc217-32a1-4374-9d51-46234fb59001))
-  (gr_text "HandheldScanner v0.8\n2022-12-XX" (at 89.281 117.475) (layer "B.SilkS") (tstamp 10d60057-c26c-4492-adae-14395ae3aeb5)
+  (gr_text "HandheldScanner v1.0\n2022-12-23" (at 89.281 117.475) (layer "B.SilkS") (tstamp 10d60057-c26c-4492-adae-14395ae3aeb5)
     (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
   )
   (gr_text "LEDreset\n" (at 101.981 97.79 45) (layer "B.SilkS") (tstamp 31a355b7-b81e-487e-b521-e984b30da8f2)

@@ -380,7 +380,7 @@
       "idf": "",
       "netlist": "../../../../../../../../../Applications/KiCad/",
       "specctra_dsn": "",
-      "step": "ControllerBoard.STEP",
+      "step": "ControllerBoard-v1_0.STEP",
       "vrml": ""
     },
     "page_layout_descr_file": ""

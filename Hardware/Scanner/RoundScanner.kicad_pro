@@ -403,7 +403,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "../CAD/PCB KiCad v0.4.STEP",
+      "step": "RoundScanner v1.0.STEP",
       "vrml": ""
     },
     "page_layout_descr_file": ""
