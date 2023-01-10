@@ -1187,6 +1187,9 @@
     (path "/5869e7b3-0d61-455b-97ad-e4e8b4829f27/1d86ffd5-cd1f-4aa6-a316-243d79ae65e2"
       (reference "#PWR0134") (unit 1) (value "+3.3V") (footprint "")
     )
+    (path "/a8dcb7a4-48cf-403e-b881-d44234291c62/4a771e9b-0ca6-409f-947f-c204980139c5"
+      (reference "#PWR0135") (unit 1) (value "+3.3V") (footprint "")
+    )
     (path "/e6b53734-fadc-469f-a149-b12c718f7663"
       (reference "#SYM1") (unit 1) (value "SYM_ESD_Small") (footprint "")
     )
@@ -1303,6 +1306,9 @@
     )
     (path "/5869e7b3-0d61-455b-97ad-e4e8b4829f27/db0fcbe6-e44d-4ea8-b34b-36e63044e781"
       (reference "J4") (unit 1) (value "Interface") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical")
+    )
+    (path "/a8dcb7a4-48cf-403e-b881-d44234291c62/1dd3f962-5748-406e-9e93-5433cdf60104"
+      (reference "JP1") (unit 1) (value "Jumper_2_Bridged") (footprint "Jumper:SolderJumper-2_P1.3mm_Bridged2Bar_RoundedPad1.0x1.5mm")
     )
     (path "/b0f2fd2d-6164-4caf-a4ed-db49a8dddf50"
       (reference "LOGO1") (unit 1) (value "OSHW-Logo_11.4x12mm_SilkScreen") (footprint "Symbol:OSHW-Logo_11.4x12mm_SilkScreen")
