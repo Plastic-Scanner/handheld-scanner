@@ -6,7 +6,7 @@ A handheld version of the PlasticScanner as a part of a master thesis at DTU
 
 ## Our mission
 
-We believe that plastic sorting and recycling can be done more effectively. Our handheld Plastic Scanner boosts the process by instantly determining the different plastic types. Our Plastic Scanner can be used in the range from a single household to a large waste management facility.
+We believe that plastic sorting and recycling can be improved. Our handheld Plastic Scanner enhances the process by immediately identifying various plastic types. It can be used in both residential and large waste management settings.
 
 ## The handheld Plastic Scanner
 
