@@ -1,0 +1,15 @@
+### Missing 3D models - created on 2023-02-16 14:11
+### Printed by checking_3D_models plugin
+Board file: /Users/mglavind/Documents/PlasticScanner/handheld-scanner/Hardware/Scanner/RoundScanner.kicad_pcb
+3D missing models written to:
+/Users/mglavind/Documents/PlasticScanner/handheld-scanner/Hardware/Scanner/RoundScanner_missing3Dmodels.txt
+-------
+('Q1', 'eec.models/Diodes_Inc._-_BSS138DW-7-F.step')
+('U2', 'eec.models/Nuvoton_-_NAU7802SGI.step')
+('X1', '/Applications/KiCad/KiCad.app/Contents/SharedSupport/3dmodels/Oscillator.3dshapes/Oscillator_SMD_ECS_2520MV-xxx-xx-4Pin_2.5x2.0mm.wrl')
+('D3', 'eec.models/Everlight_-_EAHC2835WD6.step')
+('U5', '/Users/mglavind/Documents/PlasticScanner/handheld-scanner/Hardware/Scanner/TLC59208FIPWR.stp')
+('J3', '/Applications/KiCad/KiCad.app/Contents/SharedSupport/3dmodels/Connector_JST.3dshapes/JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal.wrl')
+-------
+NUM of 3D missing models:6
+checked extensions ['.stp', '.step', '.stpZ']
